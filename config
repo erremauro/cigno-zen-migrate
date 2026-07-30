@@ -1,4 +1,0 @@
-REMOTE_REPOSITORY='git@github.com:erremauro/cigno-zen-migrate.git'
-REMOTE_SITE_URL='https://www.cignozen.local'
-VERSION='0.0.3'
-BRANCH='main'
